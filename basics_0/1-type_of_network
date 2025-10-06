@@ -1,0 +1,15 @@
+# Types de Réseaux
+
+## Questions et réponses
+
+1. **Quel type de réseau un ordinateur connecté localement utilise-t-il ?**  
+Réponse : **LAN**  
+Un LAN (Local Area Network) connecte des dispositifs dans une zone géographique restreinte comme un local ou un bâtiment.
+
+2. **Quel type de réseau peut connecter un bureau dans un bâtiment à un autre bureau situé à quelques rues ?**  
+Réponse : **WAN**  
+Un WAN (Wide Area Network) connecte plusieurs LANs sur de plus longues distances, comme différentes localisations d’une entreprise.
+
+3. **Quel réseau utilises-tu en naviguant sur www.google.com depuis un smartphone non connecté au Wifi ?**  
+Réponse : **Internet**  
+Lorsque tu utilises les données mobiles, tu accèdes à Internet à travers un réseau WAN global.
