@@ -1,12 +1,2 @@
-What is the OSI model?
-The OSI (Open Systems Interconnection) model is a conceptual model that standardizes the functions of a telecommunication or computing system into seven abstraction layers.
-
-How is the OSI model organized?
-From the lowest layer to the highest:
-1. Physical
-2. Data Link
-3. Network
-4. Transport
-5. Session
-6. Presentation
-7. Application
+2
+2

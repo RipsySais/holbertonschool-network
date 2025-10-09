@@ -1,15 +1,3 @@
-# UDP et TCP
-
-## Questions et réponses
-
-1. Quelle affirmation est correcte pour TCP ?  
-- C’est un protocole qui transfère les données de manière lente mais sûre.  
-TCP assure la fiabilité des données grâce au contrôle d’erreur et à la retransmission des paquets.
-
-2. Quelle affirmation est correcte pour UDP ?  
-- C’est un protocole qui transfère les données rapidement mais avec possibilité de perte de données.  
-UDP ne garantit pas la livraison ni l’ordre des paquets, ce qui le rend plus rapide mais moins fiable.
-
-3. Quelle affirmation est correcte pour le worker TCP ?  
-- "Have you received boxes x, y, z ?"  
-TCP utilise des accusés de réception pour confirmer la bonne réception des données.
+1
+2
+1

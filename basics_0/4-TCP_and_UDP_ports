@@ -1,13 +1,3 @@
-#!/bin/bash
-
-echo "Active Internet connections (only servers)"
-echo "Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name"
-
-# Affiche les sockets TCP en écoute avec PID et nom du programme
-sudo netstat -tulnp | grep LISTEN | grep -i "tcp" 
-
-# Affiche les sockets UDP avec PID et nom du programme
-sudo netstat -tulnp | grep -i "udp"
-
-# Affiche aussi les UNIX domain sockets en écoute (optionnel si besoin)
-# sudo netstat -A -A | grep LISTEN
+#!/usr/bin/env bash
+# shows listening sockets
+netstat -lp
