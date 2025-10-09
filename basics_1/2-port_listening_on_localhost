@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+# Listen on port 98 on localhost and print received messages
+
+while true; do
+    nc -l 127.0.0.1 98
+done

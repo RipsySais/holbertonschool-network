@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#retrieves the IPv4 addresses of the network interfaces
+ifconfig | grep -oP '(?<=inet\s)\d+(\.\d+){3}'
